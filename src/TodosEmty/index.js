@@ -8,7 +8,7 @@ function TodosEmty() {
     <React.Fragment>
       <h2>It`s Time to Create a New Task</h2>
       <figure>
-        <img src={task} alt="new-task" />
+        <img src={task} alt="" />
       </figure>
       <div className="EmtyText">
         <p>Press</p>

@@ -12,7 +12,7 @@ function TodosEmty() {
       </figure>
       <div className="EmtyText">
         <p>Press</p>
-        <img src={newTask} />
+        <img src={newTask} alt="" />
         <p>to Add a New Task.</p>
       </div>
     </React.Fragment>

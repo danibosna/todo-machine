@@ -1,0 +1,14 @@
+section {
+  overflow-y: scroll;
+}
+
+section::-webkit-scrollbar {
+  display: none;
+}
+
+ul {
+  overflow-y: overlay;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

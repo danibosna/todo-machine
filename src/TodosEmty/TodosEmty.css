@@ -1,0 +1,23 @@
+h2 {
+  text-align: center;
+}
+
+figure {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 10rem;
+}
+
+.EmtyText {
+  display: flex;
+  justify-content: center;
+}
+
+.EmtyText > img {
+  align-self: center;
+  height: 1.5rem;
+  margin: 0 1rem;
+}
